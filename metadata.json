@@ -1,0 +1,5 @@
+{
+  "name": "Thevenin Solver",
+  "description": "AI-Powered Circuit Analysis Engine that guides students through Thevenin's Theorem using Gemini Vision.",
+  "requestFramePermissions": []
+}
